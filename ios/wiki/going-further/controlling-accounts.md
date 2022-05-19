@@ -11,3 +11,4 @@ Since Minecraft: Java Edition has many account types, you'll need to figure out 
 ~~**Offline Login** allows you to use a cracked Minecraft account to sign in. You won't be able to join servers unless their option for online-mode is set to false, as these accounts are not "legit" to Mojang's authentication servers.~~ (This option is being replaced by `Local mode`.)
 
 **Local Account** allows you to use an offline Minecraft account to sign in. It’s like an offline account, but you can not download Minecraft from Mojang’s servers.
+Nihal
